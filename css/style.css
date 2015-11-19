@@ -11,3 +11,7 @@ footer span { float: right; font-style: italic; }
   body { font-size: 12px;}
   header p { padding-left: 4.5em;}
 }
+
+ a:visited { color: #61C; }
+    a:focus { outline: thin dotted; }
+    a:hover, a:active { color: #c00; outline: 0; }
